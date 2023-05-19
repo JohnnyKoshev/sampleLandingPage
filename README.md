@@ -24,9 +24,19 @@ The eShop website is built using the following technologies:
 
 To run the eShop website locally, follow these steps:
 
-1. Clone the repository: `https://github.com/JohnnyKoshev/sampleLandingPage.git`.
-2. Navigate to the project directory: `cd sampleLandingPage`.
-3. Open the `index.html` file in your preferred web browser.
+1. Clone the repository: 
+
+```
+https://github.com/JohnnyKoshev/sampleLandingPage.git
+```
+
+3. Navigate to the project directory: 
+
+```
+cd sampleLandingPage
+```
+
+4. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
