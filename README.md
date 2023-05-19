@@ -27,7 +27,7 @@ To run the eShop website locally, follow these steps:
 1. Clone the repository: 
 
 ```
-https://github.com/JohnnyKoshev/sampleLandingPage.git
+git clone https://github.com/JohnnyKoshev/sampleLandingPage.git
 ```
 
 3. Navigate to the project directory: 
